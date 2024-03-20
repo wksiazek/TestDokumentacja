@@ -1,3 +1,3 @@
-DERL (ang. differential evolution random locations)
+DERL
 #####
-
+DERL (differential evolution random locations)

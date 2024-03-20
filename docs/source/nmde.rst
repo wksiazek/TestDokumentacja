@@ -1,2 +1,3 @@
-NMDE (ang. novel modified differential evolution algorithm).
+NMDE
 #####
+NMDE (novel modified differential evolution algorithm)

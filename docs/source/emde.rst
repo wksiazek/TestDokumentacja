@@ -1,3 +1,3 @@
-EMDE (ang. efficient modified differential evolution)
+EMDE
 #####
-
+EMDE (efficient modified differential evolution)

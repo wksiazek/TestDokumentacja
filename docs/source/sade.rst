@@ -1,2 +1,3 @@
-SADE (ang. self-adaptive differential evolution)
+SADE
 #####
+SADE (self-adaptive differential evolution)

@@ -18,8 +18,9 @@ Contents
 
 
 .. toctree::
+   :maxdepth: 1
    :caption: General
-   Instalation
+   instalation
    getting_started
 
 .. toctree::
@@ -35,12 +36,14 @@ Contents
    ide
 
 .. toctree::
+   :maxdepth: 1
    :caption: Examples
    ackley
    benchmark_functions
    optimization_opfunu
 
 .. toctree::
+   :maxdepth: 1
    :caption: Additional information
    ackley
    contribute

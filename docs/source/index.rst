@@ -39,3 +39,8 @@ Contents
    benchmark_functions
    optimization_opfunu
 
+.. toctree::
+   :caption: Additional information
+   ackley
+   contribute
+   release_history

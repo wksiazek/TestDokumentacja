@@ -1,2 +1,3 @@
-Differential evolution
+DE
 #####
+DE (Differential evolution)

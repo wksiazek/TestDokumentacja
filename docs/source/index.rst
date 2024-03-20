@@ -35,7 +35,7 @@ Contents
 
 .. toctree::
    :caption: Examples
-   Optimization of the Ackley function
-   Optimization of common benchmark functions
-   Optimization of functions from Opfun
+   ackley
+   benchmark_functions
+   optimization_opfunu
 

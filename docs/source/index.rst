@@ -32,6 +32,5 @@ Welcome to DiffEvoKit documentation! Zmiany
    :maxdepth: 1
    :caption: Additional information
 
-   ackley
    contribute
    release_history

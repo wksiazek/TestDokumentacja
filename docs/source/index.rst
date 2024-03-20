@@ -20,6 +20,7 @@ Contents
 .. toctree::
    :caption: General
    Instalation
+   getting_started
 
 .. toctree::
    :maxdepth: 1

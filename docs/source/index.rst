@@ -15,8 +15,14 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+Installation
+************
+
+Prerequisites
+=============
+
 
 .. toctree::
-
+   
    usage
    api

@@ -1,2 +1,4 @@
-COMDE (ang. constrained optimization based differential evolution)
+COMDE
 #####
+
+COMDE (constrained optimization based differential evolution)

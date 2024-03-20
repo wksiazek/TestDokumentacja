@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation! Zmiany
+Welcome to DiffEvoKit documentation! Zmiany
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**DiffEvoKit** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
@@ -18,7 +18,8 @@ Contents
 
 
 .. toctree::
-   usage
+   :caption: General
+   Instalation
 
 .. toctree::
    :maxdepth: 1
@@ -31,4 +32,10 @@ Contents
    sade
    emde
    ide
+
+.. toctree::
+   :caption: Examples
+   Optimization of the Ackley function
+   Optimization of common benchmark functions
+   Optimization of functions from Opfun
 

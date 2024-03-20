@@ -20,6 +20,7 @@ Welcome to DiffEvoKit documentation! Zmiany
    emde
    ide
    sade
+   jade
 
 .. toctree::
    :maxdepth: 1

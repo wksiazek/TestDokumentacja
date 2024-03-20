@@ -16,9 +16,10 @@ Welcome to DiffEvoKit documentation! Zmiany
    comde
    derl
    nmde
-   sade
+   adapt_de
    emde
    ide
+   sade
 
 .. toctree::
    :maxdepth: 1

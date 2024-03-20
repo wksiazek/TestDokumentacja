@@ -24,8 +24,11 @@ Contents
    :maxdepth: 1
    :caption: API
 
-   Algorytm1
-   Algorytm2
-   Algorytm3
-   Algorytm4
-   
+   de
+   comde
+   derl
+   nmde
+   sade
+   emde
+   ide
+

@@ -1,2 +1,3 @@
-IDE (ang. improved differential evolution)
+IDE
 #####
+IDE (improved differential evolution)

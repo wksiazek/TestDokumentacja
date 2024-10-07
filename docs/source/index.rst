@@ -24,6 +24,7 @@ Welcome to DiffEvoKit documentation! Zmiany
    degl
    aade
    delb
+   eide
 
 .. toctree::
    :maxdepth: 1

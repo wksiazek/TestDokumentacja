@@ -16,7 +16,6 @@ Welcome to DiffEvoKit documentation! Zmiany
    comde
    derl
    nmde
-   adapt_de
    emde
    ide
    sade

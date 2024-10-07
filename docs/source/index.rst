@@ -22,6 +22,7 @@ Welcome to DiffEvoKit documentation! Zmiany
    jade
    ode
    degl
+   aade
 
 .. toctree::
    :maxdepth: 1
